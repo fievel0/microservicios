@@ -8,6 +8,6 @@
 
 #si sirve codigo puero en JAVA pero actualmente los microservicios con DB no relacionales estan en auge
 
-# de igual manera utilizo MongoDB, cualquier consulta lo pueden hacer a mi numero: 098401789 pero solo
+#de igual manera utilizo MongoDB, cualquier consulta lo pueden hacer a mi numero: 098401789 pero solo
 
 #al chat porque no trabajo con llamada de números desconocidos...
