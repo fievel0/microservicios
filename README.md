@@ -8,7 +8,7 @@ de igual manera utilizo MongoDB, cualquier consulta lo pueden hacer a mi numero:
 al chat porque no trabajo con llamada de números desconocidos...
 
 # Tecnologías utilizadas
-* SpringBoo
+* SpringBoot
 * Lombok
 * MongoDB
 * Spring Validation
